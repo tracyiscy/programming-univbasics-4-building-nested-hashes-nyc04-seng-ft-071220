@@ -66,5 +66,5 @@ def monopoly_with_fourth_tier
       }
     }
   }
-
+base_hash[:railroads][:names][:reading_railroad]=base_hash[:mortgage_value => 100]
 end
